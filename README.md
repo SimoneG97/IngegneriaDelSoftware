@@ -1,4 +1,5 @@
 # IngegneriaDelSoftware - Dashboard Ambientale
+Nome gruppo: Definitely Not Engineers
 Membri:
 - Simone Galante: Matricola - 247043 || email - simone.galante@student.univaq.it
 - Jessica Giancola: Matricola - 249180 || email - jessica.giancola@student.univaq.it
